@@ -6,4 +6,4 @@ var simpleRandomEmoji = function(){
   return list[Math.floor(Math.random()*list.length)];
 };
 
-console.log(simpleRandomEmoji());
+module.export = simpleRandomEmoji;
