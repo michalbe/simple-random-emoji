@@ -1,0 +1,15 @@
+{
+  "name": "simple-random-emoji",
+  "version": "0.0.1",
+  "author": "Michał Budzyński <michal@virtualdesign.pl>",
+  "repository": "git@github.com:michalbe/simple-random-emoji.git",
+  "devDependencies": {
+    "assert": "^1.1.1",
+    "jshint": "^2.5.3",
+    "precommit-hook": "^1.0.7"
+  },
+  "scripts": {
+    "test": "node tests/simple-random-emoji-tests.js",
+    "lint": "node node_modules/jshint/bin/jshint ."
+  }
+}
