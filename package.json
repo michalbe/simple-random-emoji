@@ -11,5 +11,8 @@
   "scripts": {
     "test": "node tests/simple-random-emoji-tests.js",
     "lint": "node node_modules/jshint/bin/jshint ."
+  },
+  "dependencies": {
+    "emoji-list": "^1.0.1"
   }
 }
