@@ -1,6 +1,6 @@
 {
   "name": "simple-random-emoji",
-  "version": "0.0.1",
+  "version": "1.0.1",
   "author": "Michał Budzyński <michal@virtualdesign.pl>",
   "repository": "git@github.com:michalbe/simple-random-emoji.git",
   "devDependencies": {
